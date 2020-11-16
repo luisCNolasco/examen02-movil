@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen02MovilCarranza</string>
+
+    <string name="btn_registra">Registra</string>
+    <string name="lbl_materno">Apellido materno</string>
+    <string name="lbl_apaterno">Apellido paterno</string>
+    <string name="lbl_nombre">Nombres</string>
+    <string name="lbl_pais">Pais</string>
+
+</resources>
